@@ -41,7 +41,6 @@
 
 	<!-- Devices -->
 		<!-- e610 -->
-			<!--
 			<project name="TeamHackLG/android_device_lge_e610" path="device/lge/e610" remote="github" />
 			<project name="TeamHackLG/android_device_lge_msm7x27a-common" path="device/lge/msm7x27a-common" remote="github" />
 			<project name="TeamHackLG/lge-kernel-lproj" path="kernel/lge/msm7x27a-common" remote="github" revision="android-msm-3.4-kk" />
@@ -57,7 +56,6 @@
 
 			<remove-project name="TeamHackLG/lge-kernel-lproj" />
 			<project name="ArchiDroid/ArchiKernel" path="kernel/lge/msm7x27a-common" remote="github" revision="msm7x27" />
-			-->
 		<!-- /e610 -->
 		<!-- i9300 -->
 			<!--
